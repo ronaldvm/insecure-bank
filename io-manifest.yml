@@ -13,7 +13,7 @@ application:
   fileChangeThreshold: 10
 environment:
   scm:  github 
-  scmOwner:  sigiodemo 
+  scmOwner:  ronaldvm 
   scmRepositoryName:  insecure-bank 
   scmBranchName:  main 
   githubApiUrl: https://api.github.com/repos/
